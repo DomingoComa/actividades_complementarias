@@ -81,9 +81,9 @@
     	<script type="text/javascript" src="../js/materialize.min.js"></script>
     	<div class="navbar-fixed">
             <nav class="teal lighten-2">
-                <div class="nav-wrapper">
+                <div class="nav-wrapper purple lighten-1">
                     <a href="#" class="brand-logo right"><?php echo $title_menu; ?></a>
-                    <ul id="nav-mobile" class="left side-nav">
+                    <ul id="nav-mobile" class="left side-nav purple lighten-1">
                         <li><a href="index.php">Inicio</a></li>
                     </ul>
                 </div>

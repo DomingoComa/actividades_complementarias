@@ -1,8 +1,8 @@
     <div class="col s12">
-                <footer class="page-footer teal lighten-2">
-                    <div class="footer-copyright">
-                        <div class="container">
-                            &copy; 2017 Mario de Jes&uacute;s Carranza D&iacute;az
+                <footer class="page-footer teal lighten-2 purple lighten-1">
+                    <div class="footer-copyright purple lighten-1">
+                        <div class="container ">
+                            &copy; 2017 Domingo Antunez Salgado
                         </div>
                     </div>
                 </footer>
